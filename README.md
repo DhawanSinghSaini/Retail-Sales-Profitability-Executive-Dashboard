@@ -10,7 +10,7 @@ Superstore experiences strong top-line sales growth across multiple regions and 
 
 * **Dataset Name:** Sample - Superstore Dataset
 
-* **Source / Link:** [Kaggle - Sample Superstore Dataset](https://www.kaggle.com/datasets/naveenkumar20bps1137/sample-superstore/data) / Tableau Public Sample Data
+* **Source / Link:** [Kaggle - Sample Superstore Dataset](https://www.kaggle.com/datasets/naveenkumar20bps1137/sample-superstore/data)
 
 * **Data Size:** 9,994 transactional records across 21 attributes
 
